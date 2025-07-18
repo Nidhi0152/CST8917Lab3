@@ -81,4 +81,6 @@ A policy violation was detected.<br><br>
 
 - Could not perform multiple word detection in the Logic App condition (e.g., checking for both "stupid" and "hate" together).
 - Plan to explore advanced expressions or integrate Azure Cognitive Services for more robust content analysis in the future.
-
+----
+###  Demo Video
+ [https://youtu.be/Ny05i80tQY8](https://youtu.be/Ny05i80tQY8)
