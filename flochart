@@ -1,0 +1,8 @@
+[Microsoft Teams (Trigger)]
+      ↓
+[Logic App]
+      ↓
+[Condition: Check for bad words]
+   ┌───────────────┐
+Yes ↓               ↓ No
+[Send Email]     [Do Nothing]
